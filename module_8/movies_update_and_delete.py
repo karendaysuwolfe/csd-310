@@ -1,3 +1,11 @@
+# Name: Karendaysu Wolfe
+# Date: 11-27-22
+# Class: Database Development and Use
+# Module: 8
+# Description: For this assignment, you will be learning how to update and delete records from a MySQL database.
+
+
+
 # Import mysql
 import mysql.connector as sql
 
